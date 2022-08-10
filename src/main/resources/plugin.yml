@@ -1,0 +1,11 @@
+name: SecuritySK
+version: ${project.version}
+main: dev.norbiros.securitysk.SecuritySK
+
+authors: [Norbiros]
+description: Security SK!
+website: https://github.com/Norbiros/SecuritySK
+api-version: 1.13
+
+depend: [ Skript ]
+prefix: SecuritySK
